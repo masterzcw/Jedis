@@ -1,0 +1,10 @@
+
+
+Jedis下载地址:
+本例用的是jdk1.8 jedis-2.7.0.jar commons-pool2-2.3.jar
+// 这是源码, 基本没用到
+https://github.com/xetorthio/jedis
+// 这里可以直接下载文件,其中还指定了连接池的对应版本
+https://mvnrepository.com/artifact/redis.clients/jedis/2.7.0
+Redis命令参考 http://redisdoc.com/list/ltrim.html [推荐, 很全] http://doc.redisfans.com/index.html [很全]
+
